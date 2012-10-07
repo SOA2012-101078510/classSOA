@@ -1,19 +1,19 @@
 Week4 Homework For Ruby 101078510 MIN CHEN
 
 ƒÜ	Simple
-clear ¡÷ Clear the editor window
-back ¡÷ Return to the previous lesson
-next ¡÷ Move to the next lesson
-when I want a word be reversed, I can type ¡§Words¡¨.reverse
+clear >> Clear the editor window
+back >> Return to the previous lesson
+next >> Move to the next lesson
+when I want a word be reversed, I can type "Words".reverse
 ƒÜ	Other
-1.	Type ¡§File.new¡¨ means to create a new document
+1.	Type "File.new" means to create a new document
 file = File.new("testfile", "r")
 # ... process the file
 file.close
 
-and we can use ¡§open¡¨ and ¡§end¡¨ to control the file.
+and we can use 'ope' and "end" to control the file.
 2.	H1 =level-one header
-3.	¡§File.mtime¡¨ means to write down the time of creating the file
-4.	If we want to reverse a number like 40, we can¡¦t type ¡§40¡¨. Reverse, it does not work. We have to type 40.to_s.reverse
+3.	"File.mtime" means to write down the time of creating the file
+4.	If we want to reverse a number like 40, we can¡¦t type "40". Reverse, it does not work. We have to type 40.to_s.reverse
 5.	books["Gravity's Rainbow"] = :splendid
-the word ¡§splendid¡¨ is the rank for the book Gravity's Rainbow
+the word "splendid" is the rank for the book Gravity's Rainbow
